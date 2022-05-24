@@ -1,12 +1,11 @@
 #### Hi there, I'm Suraj 👋
 - 🔭 B.Tech(Computer Science and Engineering) - class of 2021
-- 👯 Looking for a frontend developer to collaborate on a side project
-- 🥅 2022 Goals: Contribute to atleast one Open Source project
-- ⚡ Fun fact: I love Travelling and Nature Photography
+- ⚡ Hobbies: listOf("Travelling", "Binge Watching", "Nature Photography")
+- 🥅 2022 Goals: Stay Alive
 
 ## Connect with me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soorajxo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sosooraj)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surajraikwar)
 
 <br />
