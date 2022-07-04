@@ -1,9 +1,9 @@
 Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">, I'm [Suraj](https://surajraikwar.dev/)
 ----------------------------------------------
 
-I'm currently a Software Development Engineer-1 at **[Jupiter](https://www.jupiter.money/)** and formerly at **[USTRAA](https://ustraa.com/)**. I'm a Tech Enthusiast 👨‍💻 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. I am working on some side projects, learning a couple new dishes, and trying to conquer the world.
+I'm currently working as a Software Development Engineer-1 at **[Jupiter](https://www.jupiter.money/)** and formerly at **[USTRAA](https://ustraa.com/)**. I'm a Tech Enthusiast 👨‍💻 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. I am working on some side projects, learning a couple new dishes, and trying to conquer the world.
 
-[![Website Badge](https://img.shields.io/badge/-surajraikwar.dev-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://surajraikwar.dev)](https://surajraikwar.dev) [![LinkedIn Badge](https://img.shields.io/badge/-@surajraikwar-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/surajraikwar/)](https://www.linkedin.com/in/surajraikwar/) [![Twitter Follow](https://img.shields.io/twitter/follow/surajune?label=Follow)](https://twitter.com/intent/follow?screen_name=surajune) ![GitHub followers](https://img.shields.io/github/followers/surajraikwar?label=Follow&style=social) [![Spotify Badge](https://img.shields.io/badge/-Suraj-1ED760?style=flat-square&labelColor=fff&logo=Spotify&link=https://open.spotify.com/user/uxtkm3b9x1cmhrcq9ii1i2ees)](https://open.spotify.com/user/uxtkm3b9x1cmhrcq9ii1i2ees) ![visitors](https://visitor-badge.glitch.me/badge?page_id=SurajRaikwar.SurajRaikwar)
+[![Website Badge](https://img.shields.io/badge/-surajraikwar.dev-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://surajraikwar.dev)](https://surajraikwar.dev) [![LinkedIn Badge](https://img.shields.io/badge/-Suraj%20Raikwar-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/surajraikwar/)](https://www.linkedin.com/in/surajraikwar/) [![Twitter Follow](https://img.shields.io/twitter/follow/surajune?label=Follow)](https://twitter.com/intent/follow?screen_name=surajune) ![GitHub followers](https://img.shields.io/github/followers/surajraikwar?label=Follow&style=social) [![Spotify Badge](https://img.shields.io/badge/-Suraj-1ED760?style=flat-square&labelColor=fff&logo=Spotify&link=https://open.spotify.com/user/uxtkm3b9x1cmhrcq9ii1i2ees)](https://open.spotify.com/user/uxtkm3b9x1cmhrcq9ii1i2ees) ![visitors](https://visitor-badge.glitch.me/badge?page_id=SurajRaikwar.SurajRaikwar)
 
 🍌 Don't forget to get some Potassium 🍌
 
@@ -16,10 +16,10 @@ I'm currently a Software Development Engineer-1 at **[Jupiter](https://www.jupit
 
 *   🔭 B.Tech in Computer Science and Engineering - Class of 2021.
 *   🏖️ In my free time, I also execute test cases [here](https://platform.utest.com).
-*   📍 [Level 7 Local Guide](https://maps.app.goo.gl/PAxxN6JZ6tkqTUkW8) on Google Maps
-*  🍿 I have most probably watched all the IMDB's top listed TV series.
+*   📍 [Level 7 Local Guide](https://maps.app.goo.gl/PAxxN6JZ6tkqTUkW8) on Google Maps.
+*  🍿 I have most probably watched all the IMDB's top rated TV series.
 *  ⚽ On weekends you can probably find me either partying or binge watching.
-*  🚀 I love Astrophysics and SpaceX and watch a lot Sci-Fi Movies
+*  🚀 I love Astrophysics and SpaceX and watch a lot Sci-Fi Movies.
 *   🎉 Fun Fact: 腕に日本語で名前を入れ墨しています。
 
 <br>
