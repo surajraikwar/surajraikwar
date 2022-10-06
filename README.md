@@ -37,6 +37,8 @@ I'm currently working as a Software Development Engineer-1 at **[Jupiter](https:
 
 ![](https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=surajraikwar.surajraikwar)
+
 <br>
 
 ⚡️ A Few Quick Facts
