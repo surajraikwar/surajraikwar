@@ -27,7 +27,7 @@ I'm currently working as a Software Development Engineer-1 at **[Jupiter](https:
 <a href="https://maps.app.goo.gl/PAxxN6JZ6tkqTUkW8">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/googlemaps.svg" />
 </a>
-<a href="https:/open.spotify.com/user/uxtkm3b9x1cmhrcq9ii1i2ees">
+<a href="https://open.spotify.com/user/uxtkm3b9x1cmhrcq9ii1i2ees">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/spotify.svg" />
 </a>
 
