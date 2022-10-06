@@ -3,8 +3,36 @@ Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/
 
 I'm currently working as a Software Development Engineer-1 at **[Jupiter](https://www.jupiter.money/)** and formerly at **[USTRAA](https://ustraa.com/)**. I'm a Tech Enthusiast 👨‍💻 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. I am working on some side projects, learning a couple new dishes, and trying to conquer the world.
 
-[![Website Badge](https://img.shields.io/badge/-surajraikwar.dev-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&link=https://surajraikwar.dev)](https://surajraikwar.dev) [![LinkedIn Badge](https://img.shields.io/badge/-Suraj%20Raikwar-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/surajraikwar/)](https://www.linkedin.com/in/surajraikwar/) [![Twitter Follow](https://img.shields.io/twitter/follow/surajune?label=Follow)](https://twitter.com/intent/follow?screen_name=surajune) ![GitHub followers](https://img.shields.io/github/followers/surajraikwar?label=Follow&style=social) [![Spotify Badge](https://img.shields.io/badge/-Suraj-1ED760?style=flat-square&labelColor=fff&logo=Spotify&link=https://open.spotify.com/user/uxtkm3b9x1cmhrcq9ii1i2ees)](https://open.spotify.com/user/uxtkm3b9x1cmhrcq9ii1i2ees) ![visitors](https://visitor-badge.glitch.me/badge?page_id=SurajRaikwar.SurajRaikwar)
+<a href="https://www.linkedin.com/in/surajraikwar/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://instagram.com/sosooraj">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/instagram.svg" />
+</a>
+<a href="mailto:raikwar.suraj@outlook.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.snapchat.com/add/ssurajjj">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/snapchat.svg" />
+</a>
+<a href="https://t.me/suraj_raikwar">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/telegram.svg" />
+</a>
+<a href="https://fb.me/surajxo">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/facebook.svg" />
+</a>
+<a href="https://twitter.com/surajune">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/twitter.svg" />
+</a>
+<a href="https://maps.app.goo.gl/PAxxN6JZ6tkqTUkW8">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/googlemaps.svg" />
+</a>
+<a href="https:/open.spotify.com/user/uxtkm3b9x1cmhrcq9ii1i2ees">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/spotify.svg" />
+</a>
 
+<br>
+<br>
 🍌 Don't forget to get some Potassium 🍌
 
 ![](https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
