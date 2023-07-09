@@ -45,7 +45,7 @@ I'm currently working as a Software Development Engineer-1 at **[Jupiter](https:
 ⚡️ A Few Quick Facts
 --------------------
 
-*  🌞 Level 26
+*  🌞 Level 27
 *  🔭 B.Tech in Computer Science and Engineering - Class of 2021.
 *  🏖️ In my free time, I also execute test cases [here](https://platform.utest.com).
 *  📍 [Level 7 Local Guide](https://maps.app.goo.gl/PAxxN6JZ6tkqTUkW8) on Google Maps.
