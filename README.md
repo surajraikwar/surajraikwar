@@ -48,9 +48,8 @@ I'm currently working as a Software Development Engineer-1 at **[Jupiter](https:
 *  🌞 Level 27
 *  🚀 I love Astrophysics and SpaceX and watch a lot Sci-Fi Movies.
 *  😂 I am the admin of a meme page.
-*  🍿 I have most probably watched all the IMDB's top rated TV series.
+*  🍿 I probably have watched most of the IMDB's top rated TV series.
 *  📍 [Level 7 Local Guide](https://maps.app.goo.gl/PAxxN6JZ6tkqTUkW8) on Google Maps.
-*  🏖️ In my free time, I also execute test cases [here](https://platform.utest.com).
 *  ⚽ On weekends you can probably find me either partying or binge-watching.
 *  🎉 Fun Fact: 腕に日本語で名前を入れ墨しています。
 
