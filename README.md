@@ -6,23 +6,23 @@ I'm currently working as a Software Development Engineer-1 at **[Jupiter](https:
 <a href="https://www.linkedin.com/in/surajraikwar/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://instagram.com/sosooraj">
+<a href="https://instagram.com/suraijkwar">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/instagram.svg" />
 </a>
 <a href="mailto:raikwar.suraj@outlook.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.snapchat.com/add/ssurajjj">
+<a href="https://www.snapchat.com/add/amiserablestory">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/snapchat.svg" />
 </a>
 <a href="https://t.me/suraj_raikwar">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/telegram.svg" />
 </a>
-<a href="https://fb.me/surajxo">
+<a href="https://fb.me/surajified">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/facebook.svg" />
 </a>
-<a href="https://twitter.com/surajune">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/twitter.svg" />
+<a href="https://www.coursera.org/user/e07afecf68c96e053106ee4702ad386f">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/coursera.svg" />
 </a>
 <a href="https://maps.app.goo.gl/PAxxN6JZ6tkqTUkW8">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.14.0/icons/googlemaps.svg" />
