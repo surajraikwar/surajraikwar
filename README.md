@@ -11,17 +11,20 @@ I’m a tech enthusiast driven by a passion for building impactful products and 
 <a href="https://www.linkedin.com/in/surajraikwar/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://instagram.com/suraijkwar">
+<a href="https://instagram.com/thesurajraikwar">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />
 </a>
 <a href="mailto:raikwar.suraj@outlook.com">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftoutlook.svg" />
 </a>
-<a href="https://t.me/suraj_raikwar">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" />
-</a>
 
 <br>
+<br>
+🍌 Don't forget to get some Potassium 🍌
+
+![](https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=surajraikwar.surajraikwar)
 <br>
 
 ---
