@@ -66,7 +66,7 @@ I’m a tech enthusiast driven by a passion for building impactful products and 
 ---
 
 ### 🎧 Spotify Vibes
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uxtkm3b9x1cmhrcq9ii1i2ees&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=uxtkm3b9x1cmhrcq9ii1i2ees&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=uxtkm3b9x1cmhrcq9ii1i2ees&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=uxtkm3b9x1cmhrcq9ii1i2ees&redirect=true)
 
 ---
 
