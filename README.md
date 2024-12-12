@@ -17,6 +17,9 @@ I’m a tech enthusiast driven by a passion for building impactful products and 
 <a href="https://www.coursera.org/learner/surajraikwar">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/coursera.svg" />
 </a>
+<a href="https://profile.playstation.com/surajraikwar">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/playstation.svg" />
+</a>
 <a href="mailto:raikwar.suraj@outlook.com">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftoutlook.svg" />
 </a>
@@ -36,7 +39,7 @@ I’m a tech enthusiast driven by a passion for building impactful products and 
 - 🌌 Aspiring astrophysicist at heart, with a love for SpaceX and sci-fi.
 - 😂 Meme aficionado and admin of a meme page.
 - 🌍 Level 7 Local Guide on [Google Maps](https://maps.app.goo.gl/PAxxN6JZ6tkqTUkW8).
-- ⚽ Weekends? Catch me partying or binge-watching!
+- ⚽ Weekends? Catch me partying, binge-watching or console gaming!
 
 <br>
 
