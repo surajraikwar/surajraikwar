@@ -14,6 +14,9 @@ I’m a tech enthusiast driven by a passion for building impactful products and 
 <a href="https://instagram.com/thesurajraikwar">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />
 </a>
+<a href="https://www.coursera.org/learner/surajraikwar">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/coursera.svg" />
+</a>
 <a href="mailto:raikwar.suraj@outlook.com">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftoutlook.svg" />
 </a>
